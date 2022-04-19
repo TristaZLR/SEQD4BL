@@ -1,0 +1,1 @@
+This folder is for wapo dataset and trec & temporalia topics.
